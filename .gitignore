@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+.env/
+
+# Archivos del sistema
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Archivos de configuración o caché
+.ipynb_checkpoints
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de Python
+*.pickle
+*.pkl
+
+# Archivos generados por IDE
+.vscode/
+.idea/
